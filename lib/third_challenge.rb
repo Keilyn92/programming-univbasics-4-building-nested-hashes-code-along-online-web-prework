@@ -2,11 +2,11 @@ epic_tragedy = {
    :montague => {
       :patriarch => {
         a :name of "Lord Montague" and
-        an :age of "53".
+        an :age of"53".
         },
       :matriarch => {
         a :name of "Lady Montrague" and
-        an :age of 
+        an :age of"54" 
         },
       :hero => {
         #your key/value pairs here
