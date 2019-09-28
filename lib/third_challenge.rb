@@ -9,7 +9,8 @@ epic_tragedy = {
         an :age of"54" 
         },
       :hero => {
-        #your key/value pairs here
+        a :name of"Romeo",
+        an :age of"15"', anda :status of"alive".
         },
       :hero_friends => []
    }, 
