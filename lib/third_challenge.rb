@@ -20,10 +20,13 @@ epic_tragedy = {
         an :age of"50"
         },
       :matriarch => {
-        a:
+        a :name of"Lady Capulet" and
+        an :age of "51"
         },
       :heroine => {
-        #your key/value pairs here
+        a :name of"Juliet",
+        an :age of"15", and
+        a :status of"alive"
         },
       :heroine_friends => []
    }
